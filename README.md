@@ -1,4 +1,4 @@
-_ July 18 2025 (Friday)
+_ July 18 2025 (Friday) - Self code
 _ Wanted to challenge myself on this assignment. Choose not to use the built-in function or methods (append, extend, more), but stick to the general language function.
 
 _ Spent about 1 hour
