@@ -1,34 +1,37 @@
-### 📅 **July 18, 2025 (Friday) — Self Code Journal**
+### 📅 July 18, 2025 (Friday) — Self Code Journal
 
 ---
 
-#### 🧠 **Challenge Chosen**
-> _Opted not to use built-in methods like `append`, `extend`, etc._  
-> Wanted to push logic-based problem-solving by handling list operations manually.
+#### 🧠 Attempt
+
+> Chose not to use built-in methods like `append` or `extend` to improve raw problem-solving skills.
 
 ---
 
-#### ⏱️ **Time Spent**
-> 🕒 Approximately **1 hour**
+#### ⏱️ Time Spent
+
+> 🕒 ~1 hour
 
 ---
 
-#### 📌 **Key Learnings**
-- ✅ You can use `list + list` to concatenate lists.
-- ⚠️ Concatenation only works between **elements of the same type** (e.g., `list + list`, not `list + int`).
-- 🧩 Reinforced core understanding of list operations without relying on built-ins.
+#### 🧪 Exercise
 
----
-
-#### 🧪 **Exercise Completed On**
 > 🔗 [Python Code Challenges: Lists](https://www.codecademy.com)  
-> 📚 *Course:* Learn Python 3 — *CodeCademy*
+> 📚 *Learn Python 3 – CodeCademy*
 
 ---
 
-#### ✍️ Notes to Self
-> Keep challenging myself by building deeper logic without shortcuts.  
-> Write clean, readable code and document each approach with clarity.
+#### 📌 Key Takeaways
+
+- ✅ `list + list` is valid for combining lists.  
+- ⚠️ Concatenation only works between the same types (e.g., `list + list`).  
+- 🧩 Strengthened list logic by solving without shortcuts.
+
+---
+
+
+
+
 
 
 <img width="1134" height="1224" alt="image" src="https://github.com/user-attachments/assets/909c30b1-310a-4698-889d-4a0880695c03" />
