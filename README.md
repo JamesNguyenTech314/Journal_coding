@@ -9,4 +9,4 @@ This repository is my personal **daily coding journal** where I document:
 - 💡 Key learnings and breakthroughs
 - 🧪 Exercises and experiments
 - ✍️ Notes to myself for continuous growth
-- Check different branches to get insights
+_ 🔍 Check different branches to get insights 
